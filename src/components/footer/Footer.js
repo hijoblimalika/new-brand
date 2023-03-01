@@ -44,11 +44,11 @@ function Footer() {
               <div className="footer__alpha">
                 <h1 className='nav__logo'>NEW BRAND</h1>
                 <p>Phone support</p>
-                <p>+998 (90) 260 64 72</p>
-                <p>Kozitarnov, Tashkent</p>
-                <p><CgMail />info@olcha.uz</p>
+                <p>+998 (91) 352 55 56</p>
+                <p>Manzil namangan shaxar taxtakôrik daxasi mônjal 16-maktab </p>
+                <p><CgMail />info@newbrand.uz</p>
               </div>
-              <div className="footer__information">
+              {/* <div className="footer__information">
                 <h1 className='nav__logo'>information</h1>
                 <p>About company</p>
                 <p>Jobs</p>
@@ -56,14 +56,14 @@ function Footer() {
                 <p>Installment terms</p>
                 <p>Help</p>
                 <p>Delivery</p>
-              </div>
-              <div className="footer__eco">
+              </div> */}
+              {/* <div className="footer__eco">
                 <p>Eco friendly</p>
                 <p>Bonuses and Promotions</p>
                 <p>Payment and delivery</p>
                 <p>Sell on olcha</p>
                 <p>Service centres</p>
-              </div>
+              </div> */}
             </div>
             <div className="footer__left2">
                 {/* <div className="footer__top-">
@@ -81,9 +81,7 @@ function Footer() {
           <hr />
           <div className="footer__bottom">
             <div className="thee">
-              <p>© 2017-2022. LLC "Olcha store"</p>
-              <p>Public offer</p>
-              <p>Privacy Policy</p>
+              <p>© 2022. LLC "New brand"</p>
             </div>
             {/* <div className="beten">
               <BsFacebook className='icon' />

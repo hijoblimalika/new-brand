@@ -81,10 +81,9 @@ function SingleRoute() {
           <p>{oneItem?.desc}</p>
         </div>
         <div className="sing__left">
-          <button onClick={() => addToCart(oneItem)} className='sing__bnt2'><BsFillCartPlusFill />Savatchga qoshish</button>
+          <button onClick={() => addToCart(oneItem)} className='sing__bnt2'><BsFillCartPlusFill />Savatchaga qoshish</button>
           <button className='sing__like' onClick={() => addHaert(oneItem)}>Sevimlilarga qoshish</button>
           <div>
-            <button className='sing__bnt3'>Bir klikda sotib olish</button>
           </div>
         </div>
       </div>
