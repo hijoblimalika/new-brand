@@ -1,5 +1,5 @@
 import React from 'react'
-import "./Like"
+import "./Like.css"
 import Empty from "../../components/empty/Empty"
 import img from "../../assets/2.png"
 import { useSelector, useDispatch } from 'react-redux'

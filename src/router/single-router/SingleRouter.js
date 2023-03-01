@@ -79,13 +79,8 @@ function SingleRoute() {
         <div className="single__text">
           <p>{oneItem?.xotira}</p>
           <p>{oneItem?.desc}</p>
-          <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Culpa molestias autem at laudantium officia, itaque illum, magnam architecto consectetur cum, fugit obcaecati eveniet illo laboriosam iure. A nobis explicabo porro!</p>
-          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto excepturi eaque molestias odit dicta magni.</p>
         </div>
         <div className="sing__left">
-          <h2>{oneItem?.price} so'm</h2>
-          <p>Yetkazib berish to'g'risida ma'lumot:</p>
-          <p>Standart yetkazib berish Manzilga qarab 2 soatdan 2 ish kunigacha yetkazib beriladi</p>
           <button onClick={() => addToCart(oneItem)} className='sing__bnt2'><BsFillCartPlusFill />Savatchga qoshish</button>
           <button className='sing__like' onClick={() => addHaert(oneItem)}>Sevimlilarga qoshish</button>
           <div>

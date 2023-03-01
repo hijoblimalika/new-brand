@@ -7,6 +7,11 @@
     justify-content: center;
 
 }
+.pro__cart :hover{
+    cursor: pointer;
+    border: 2px solid black;
+    color: #ffff;
+}
 
 .map__card{
     width: 250px;
@@ -29,6 +34,7 @@
 .map__img{
     width: 100%;
     height: auto;
+    border-radius: 10px;
 }
 
 .map__top{
@@ -36,7 +42,7 @@
     flex-direction: column;
 align-items: center;
 justify-content: center;
-    margin-top: 20px;
+    /* margin-top: 20px; */
 }
 .map__card button{
     padding: 5px 40px;

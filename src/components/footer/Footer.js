@@ -66,11 +66,11 @@ function Footer() {
               </div>
             </div>
             <div className="footer__left2">
-              {/* <div className="footer__top-">
-                <img src={img2} alt="" />
-                <img src={img1} alt="" />
-                <img src={img3} alt="" />
-              </div> */}
+                {/* <div className="footer__top-">
+                  <img src={img2} alt="" />
+                  <img src={img1} alt="" />
+                  <img src={img3} alt="" />
+                </div> */}
               {/* <div className="footer__top2">
                 <img src={img4} alt="" />
                 <img src={img5} alt="" />

@@ -78,8 +78,7 @@ function Products({ admin }) {
           <Link to={`/product/${item.id}`}><img className='map__img' src={item?.urls[0]} alt="" /></Link>
           <p className='map__title'>{item?.title.length > 30 ? item.title.slice(0, 30) + "..." : item.title}</p>
           <div className="map__top">
-            <p>{item?.price}</p>
-            <button>{Math.floor(item?.price / 12)} so'm</button>
+            <p>{item?.price} so'm</p>
           </div>
           {
             admin ?

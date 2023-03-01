@@ -4,24 +4,23 @@
     flex-wrap: wrap;
 }
 .like__card{
-   display: flex;
+    width: 500px;
    align-items: center;
-   justify-content: space-around;
    gap: 30px;
     box-shadow: 5px 0 5px 5px #0002;
-   width: 900px;    
        margin: auto;
     border-radius: 10px;
     margin-top: 100px;
     margin-bottom: 50px;
+    border: 2px;
 }
 .two{
     display: flex;
     flex-direction: column;
 }
-.like__imgs{
-    width: 100px;
-    height: auto;
+.like__imgs {
+    width: 500px;
+    height: 500px;
 }
 .like__btn{
     display: flex;
@@ -44,9 +43,14 @@
     margin-top: 5px;
 }
 
-@media screen and (max-width: 550px){
+@media screen and (max-width: 450px){
     .like__card{
+        width: 300px;
         display: flex;
         flex-wrap: wrap;
+    }
+    .like__imgs{
+        width: 300px;
+        height: 400px;
     }
 }
