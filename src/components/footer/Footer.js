@@ -45,7 +45,7 @@ function Footer() {
                 <h1 className='nav__logo'>NEW BRAND</h1>
                 <p>Phone support</p>
                 <p>+998 (91) 352 55 56</p>
-                <p>Manzil namangan shaxar taxtakôrik daxasi mônjal 16-maktab yonida</p>
+                <p>Manzil namangan shaxar taxtako'prik daxasi mo'ljal 16-maktab yonida</p>
                 <p><CgMail />info@newbrand.uz</p>
               </div>
            
