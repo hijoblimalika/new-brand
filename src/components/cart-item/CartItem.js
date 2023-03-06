@@ -77,10 +77,10 @@ function CartItem({ karzinka }) {
     <div>
       <div style={{ textAlign: "center" }}>
         <div className="inputs">
-          <input className='cart__input' value={name} onChange={e => setName(e.target.value)} type="text" placeholder='name' />
-          <input className='cart__input' value={tel} onChange={e => setTel(e.target.value)} type="number" placeholder='tel' />
-          <input className='cart__input' value={adress} onChange={e => setAdress(e.target.value)} type="text" placeholder='address' />
-          <textarea className='cart__texta' value={desc} onChange={e => setDesc(e.target.value)} name="" placeholder='desc' id="" cols="30" rows="10"></textarea>
+          <input className='cart__input' value={name} onChange={e => setName(e.target.value)} type="text" placeholder='Ismingiz' />
+          <input className='cart__input' value={tel} onChange={e => setTel(e.target.value)} type="number" placeholder='telefon raqamingiz' />
+          <input className='cart__input' value={adress} onChange={e => setAdress(e.target.value)} type="text" placeholder='Manzilingiz' />
+          <textarea className='cart__texta' value={desc} onChange={e => setDesc(e.target.value)} name="" placeholder='Mahsulot razmeri, rangi va sizni qiziqtirgan savollar...' id="" cols="30" rows="10"></textarea>
           <button onClick={order}>Buyurtma berish</button>
         </div>
       </div>

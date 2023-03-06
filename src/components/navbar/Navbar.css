@@ -179,6 +179,16 @@
     height: 30px;
 
 }
+
+
+
+
+
+
+
+
+
+
 @media screen and (max-width:900px) {
     .nav__items {
         position: fixed;
