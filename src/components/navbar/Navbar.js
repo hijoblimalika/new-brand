@@ -61,7 +61,7 @@ function Navbar() {
           <div className='navbar'>
             <Link to={"/"}
               // </div>contentEditable={true}
-              className='nav__logo'>NEW BRAND</Link>
+              className='nav__logo'>HERMES</Link>
             <button className='btn nav__katalog'>
               <AiOutlineMenu />
               <span>Katalog</span>

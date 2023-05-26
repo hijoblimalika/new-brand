@@ -42,11 +42,11 @@ function Footer() {
           <div className="footer__middle">
             <div className="footer__right2">
               <div className="footer__alpha">
-                <h1 className='nav__logo'>NEW BRAND</h1>
+                <h1 className='nav__logo'>HERMES</h1>
                 <p>Phone support</p>
                 <p>+998 (91) 352 55 56</p>
-                <p>Manzil namangan shaxar taxtako'prik daxasi mo'ljal 16-maktab yonida</p>
-                <p><CgMail />info@newbrand.uz</p>
+                <p>Manzil namangan shaxar taxtako'prik </p>
+                <p><CgMail />info@hermes.uz</p>
               </div>
            
             </div>
@@ -57,7 +57,7 @@ function Footer() {
           <hr />
           <div className="footer__bottom">
             <div className="thee">
-              <p>© 2022. LLC "New brand"</p>
+              <p>© 2022. LLC "HERMES"</p>
             </div>
         
           </div>

@@ -17,8 +17,8 @@ function Subheader() {
               <span>Sayt xaritasi</span>
             </div>
             <div>
-              <a href="tel:+998902606472">+998 90 260 64 72</a>
-              <button className='btn'>NEW BRANDdan sotib oling</button>
+              <a href="tel:+998902606472">+998 91 352 55 56</a>
+              <button className='btn'>HERMESdan sotib oling</button>
 
             </div>
           </div>

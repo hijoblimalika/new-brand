@@ -19,7 +19,7 @@
     user-select: none;
     font-size: 36px;
     font-family: cursive;
-    color: var(--bg);
+    color: #54ACB8;
 }
 
 .nav__search {
@@ -40,7 +40,7 @@
 
 .nav__search button {
     width: 60px;
-    background: var(--bg);
+    background: #54ACB8;
     border: none;
     color: #fff;
     border-radius: 8px;
